@@ -1,0 +1,38 @@
+{
+  "n_batches": 1500,
+  "k": 3,
+  "silhouette": 0.2628767147068473,
+  "calinski_harabasz": 406.7929096884454,
+  "davies_bouldin": 1.5144377176004318,
+  "anova_F": 944.9896216082398,
+  "anova_p": 3.8800294280434e-266,
+  "kruskal_H": 800.9975719240148,
+  "kruskal_p": 1.1630201728984722e-174,
+  "eta_squared": 0.5580132346549727,
+  "spearman_rho_tier_vs_lab": -0.7262584690197391,
+  "spearman_p": 4.1039353411040225e-246,
+  "kendall_tau": -0.6060211873595215,
+  "kendall_p": 8.888095502837239e-198,
+  "adjusted_rand_index": 0.2370484785054924,
+  "normalized_mutual_info": 0.2673479794929348,
+  "homogeneity": 0.2547704474918236,
+  "completeness": 0.2812318611114033,
+  "v_measure": 0.2673479794929348,
+  "tier_means_monotonic_with_lab": true,
+  "tier_mean_lab_value": {
+    "Tier 1": 78.17551219512195,
+    "Tier 2": 54.214985549132955,
+    "Tier 3": 38.217744610281926
+  },
+  "adjacent_tier_tests": [
+    {
+      "pair": "Tier 1 > Tier 2",
+      "p_value": 4.2310810644488654e-76
+    },
+    {
+      "pair": "Tier 2 > Tier 3",
+      "p_value": 1.2131042535799183e-104
+    }
+  ],
+  "bootstrap_stability_ari": 0.9683567300272424
+}
