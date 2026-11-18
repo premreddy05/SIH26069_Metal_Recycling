@@ -1,0 +1,4 @@
+tier,n,purity_pct,valuable_metal_pct,fe_pct,hazard_metal_pct,contamination_index,lab_mean,dominant_origin
+Tier 1,205,83.44,89.83,7.56,2.61,4.82,78.18,Industrial Offcuts
+Tier 2,692,79.81,16.18,79.81,4.01,6.3,54.21,Construction/Demolition
+Tier 3,603,53.05,49.38,37.04,13.58,14.44,38.22,Household/Municipal
